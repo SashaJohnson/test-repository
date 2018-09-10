@@ -1,1 +1,3 @@
-# test-repository
+fot word in words:
+  print(word)
+ 
