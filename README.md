@@ -1,3 +1,5 @@
 fot word in words:
-  print(word)
+print(word)
+
+testfunction()
  
